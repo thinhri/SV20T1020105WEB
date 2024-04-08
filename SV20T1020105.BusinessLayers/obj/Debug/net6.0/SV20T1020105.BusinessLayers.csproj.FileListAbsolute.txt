@@ -1,0 +1,17 @@
+G:\School\cntt\NAM4-HK2\WEB\SV20T1020105\SV20T1020105.BusinessLayers\bin\Debug\net6.0\SV20T1020105.BusinessLayers.deps.json
+G:\School\cntt\NAM4-HK2\WEB\SV20T1020105\SV20T1020105.BusinessLayers\bin\Debug\net6.0\SV20T1020105.BusinessLayers.dll
+G:\School\cntt\NAM4-HK2\WEB\SV20T1020105\SV20T1020105.BusinessLayers\bin\Debug\net6.0\SV20T1020105.BusinessLayers.pdb
+G:\School\cntt\NAM4-HK2\WEB\SV20T1020105\SV20T1020105.BusinessLayers\obj\Debug\net6.0\SV20T1020105.BusinessLayers.GeneratedMSBuildEditorConfig.editorconfig
+G:\School\cntt\NAM4-HK2\WEB\SV20T1020105\SV20T1020105.BusinessLayers\obj\Debug\net6.0\SV20T1020105.BusinessLayers.AssemblyInfoInputs.cache
+G:\School\cntt\NAM4-HK2\WEB\SV20T1020105\SV20T1020105.BusinessLayers\obj\Debug\net6.0\SV20T1020105.BusinessLayers.AssemblyInfo.cs
+G:\School\cntt\NAM4-HK2\WEB\SV20T1020105\SV20T1020105.BusinessLayers\obj\Debug\net6.0\SV20T1020105.BusinessLayers.csproj.CoreCompileInputs.cache
+G:\School\cntt\NAM4-HK2\WEB\SV20T1020105\SV20T1020105.BusinessLayers\obj\Debug\net6.0\SV20T1020105.BusinessLayers.dll
+G:\School\cntt\NAM4-HK2\WEB\SV20T1020105\SV20T1020105.BusinessLayers\obj\Debug\net6.0\refint\SV20T1020105.BusinessLayers.dll
+G:\School\cntt\NAM4-HK2\WEB\SV20T1020105\SV20T1020105.BusinessLayers\obj\Debug\net6.0\SV20T1020105.BusinessLayers.pdb
+G:\School\cntt\NAM4-HK2\WEB\SV20T1020105\SV20T1020105.BusinessLayers\obj\Debug\net6.0\ref\SV20T1020105.BusinessLayers.dll
+G:\School\cntt\NAM4-HK2\WEB\SV20T1020105\SV20T1020105.BusinessLayers\bin\Debug\net6.0\SV20T1020105.DataLayers.dll
+G:\School\cntt\NAM4-HK2\WEB\SV20T1020105\SV20T1020105.BusinessLayers\bin\Debug\net6.0\SV20T1020105.DomainModels.dll
+G:\School\cntt\NAM4-HK2\WEB\SV20T1020105\SV20T1020105.BusinessLayers\bin\Debug\net6.0\SV20T1020105.DataLayers.pdb
+G:\School\cntt\NAM4-HK2\WEB\SV20T1020105\SV20T1020105.BusinessLayers\bin\Debug\net6.0\SV20T1020105.DomainModels.pdb
+G:\School\cntt\NAM4-HK2\WEB\SV20T1020105\SV20T1020105.BusinessLayers\obj\Debug\net6.0\SV20T1020105.BusinessLayers.csproj.AssemblyReference.cache
+G:\School\cntt\NAM4-HK2\WEB\SV20T1020105\SV20T1020105.BusinessLayers\obj\Debug\net6.0\SV20T1020105.BusinessLayers.csproj.CopyComplete

@@ -1,0 +1,11 @@
+G:\School\cntt\NAM4-HK2\WEB\SV20T1020105\SV20T1020105.DomainModels\bin\Debug\net6.0\SV20T1020105.DomainModels.deps.json
+G:\School\cntt\NAM4-HK2\WEB\SV20T1020105\SV20T1020105.DomainModels\bin\Debug\net6.0\SV20T1020105.DomainModels.dll
+G:\School\cntt\NAM4-HK2\WEB\SV20T1020105\SV20T1020105.DomainModels\bin\Debug\net6.0\SV20T1020105.DomainModels.pdb
+G:\School\cntt\NAM4-HK2\WEB\SV20T1020105\SV20T1020105.DomainModels\obj\Debug\net6.0\SV20T1020105.DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+G:\School\cntt\NAM4-HK2\WEB\SV20T1020105\SV20T1020105.DomainModels\obj\Debug\net6.0\SV20T1020105.DomainModels.AssemblyInfoInputs.cache
+G:\School\cntt\NAM4-HK2\WEB\SV20T1020105\SV20T1020105.DomainModels\obj\Debug\net6.0\SV20T1020105.DomainModels.AssemblyInfo.cs
+G:\School\cntt\NAM4-HK2\WEB\SV20T1020105\SV20T1020105.DomainModels\obj\Debug\net6.0\SV20T1020105.DomainModels.csproj.CoreCompileInputs.cache
+G:\School\cntt\NAM4-HK2\WEB\SV20T1020105\SV20T1020105.DomainModels\obj\Debug\net6.0\SV20T1020105.DomainModels.dll
+G:\School\cntt\NAM4-HK2\WEB\SV20T1020105\SV20T1020105.DomainModels\obj\Debug\net6.0\refint\SV20T1020105.DomainModels.dll
+G:\School\cntt\NAM4-HK2\WEB\SV20T1020105\SV20T1020105.DomainModels\obj\Debug\net6.0\SV20T1020105.DomainModels.pdb
+G:\School\cntt\NAM4-HK2\WEB\SV20T1020105\SV20T1020105.DomainModels\obj\Debug\net6.0\ref\SV20T1020105.DomainModels.dll

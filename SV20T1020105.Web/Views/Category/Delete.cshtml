@@ -1,0 +1,33 @@
+﻿@model SV20T1020105.DomainModels.Category
+@{
+    ViewBag.Title = "Xóa loại hàng";
+}
+
+<div class="box box-danger">
+    <div class="box-body">
+        <form action="~/Category/Delete/@Model.CategoryID" method="post">
+            <div class="form-group">
+                <label>Tên loại hàng hoá:</label>
+                <p class="form-control-static">@Model.CategoryName</p>
+            </div>
+            <div class="form-group">
+                <label>Mô tả hàng:</label>
+                <p class="form-control-static">@Model.Description</p>
+            </div>
+            <div class="text-right">
+                @if (ViewBag.AllowDelete)
+                {
+                    <button type="submit" class="btn btn-danger">
+                        <i class="fa fa-trash"></i>
+                        Xác nhận xóa
+                    </button>
+                }
+                
+                <a href="~/Category" class="btn btn-default">
+                    Quay lại
+                </a>
+            </div>
+
+        </form>
+    </div>
+</div>
